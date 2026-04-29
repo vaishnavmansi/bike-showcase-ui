@@ -1,15 +1,14 @@
-# Bike Showcase UI
+# Bike Showcase UI 🚴
 
-A responsive bike showcase web page built using HTML and CSS.
+A simple front-end project to display different bikes with a clean UI.
 
-## Features
-- Responsive grid layout
-- Card-based design
-- Hover effects for better UI
-
-## Tech Used
+## 🔧 Tech Used
 - HTML
 - CSS
 
-## Author
-Mansi Vaishnav
+## ✨ Features
+- Responsive layout
+- Bike cards display
+- Clean design
+
+## 📸 Preview
